@@ -8,15 +8,16 @@ The data for the first map (period 1) was retrieved after 10pm PST, whereas the 
 
 *Map1: period 1 data retrieved after 10pm PST, less tweets than period 2.*
 ![Map1](img/lab2_map1.png)
+
 *Map2: period 2 data retrieved after 10pm PST, more tweets than period 1.*
 ![Map2](img/lab2_map2.png)
 
 
 ## Part 3: The difference between the contexts
-Since the tweet data collection did not limit the content of the tweets, 
+Since the tweet data collection did not limit the content of the tweets, we can see from the two wordclouds that the first two context were the same, "co" and "go". However, becasue of the differetn nature of the two time periods, people tends to post tweets with more emotional context during night time, like "sorry", "happy", "miss", and **"sleep"**. On the other hand, during period two, people are mostly working, thus, the context are mostly related to **"work"**, "job", "time", and "creat". 
 
-*Word Cloud1 for period 1 tweet content.*
+*Word Cloud1 for period 1 (10pm PST) tweet context.*
 ![Map1_wordcloud](img/WordArt_1.png)
 
-*Word Cloud2 for period 2 tweet content.*
+*Word Cloud2 for period 2 (2pm PST) tweet context.*
 ![Map2_wordcloud](img/WordArt_2.png)
