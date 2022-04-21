@@ -9,7 +9,7 @@ The data for the first map (period 1) was retrieved after 10pm PST, whereas the 
 *Map1: period 1 data retrieved after 10pm PST, less tweets than period 2.*
 ![Map1](img/lab2_map1.png)
 
-*Map2: period 2 data retrieved after 10pm PST, more tweets than period 1.*
+*Map2: period 2 data retrieved after 2pm PST, more tweets than period 1.*
 ![Map2](img/lab2_map2.png)
 
 
